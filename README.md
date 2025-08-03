@@ -7,7 +7,7 @@ It performs standard arithmetic operations like addition, subtraction, multiplic
 
 ## 📸 Preview
 
-![Calculator Screenshot](preview.png) <!-- Optional: replace with actual image link or remove -->
+![Calculator Screenshot](img/preview.png) <!-- Optional: replace with actual image link or remove -->
 
 ---
 
@@ -23,9 +23,11 @@ It performs standard arithmetic operations like addition, subtraction, multiplic
 ## 📁 Project Structure
 
 📱 Demo
-Live Demo <!-- Optional: Add your GitHub Pages or Netlify link -->
+Live Demo
+https://calculator-html-css-js-two.vercel.app/
+
+<!-- Optional: Add your GitHub Pages or Netlify link -->
 
 👨‍💻 Author
 Sahil Rathore
-GitHub
-
+https://github.com/sahil-Rathore10
